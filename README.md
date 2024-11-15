@@ -8,4 +8,4 @@ Perform the calculation and display the result.
 
 Internship project GUI based Calculator with Tkinter
 
-Batch -  SEPTEMBER BATCH A74
+
